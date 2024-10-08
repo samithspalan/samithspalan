@@ -1,5 +1,5 @@
 # 💫 About Me:   Passionate Software developer from India
-I'm currently learning mern stack
+I'm currently learning <img scr="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s">
 
 
 ## 🌐 Socials:
