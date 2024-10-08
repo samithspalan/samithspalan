@@ -5,10 +5,11 @@ I'm currently learning <!DOCTYPE html>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <h1>HTML</h1>
+       <title>  </title>
   
 </head>
 <body>
+    <h1>HTML</h1>
     <img scr="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s">
 </body>
 </html>
