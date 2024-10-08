@@ -4,9 +4,9 @@ I'm currently learning <!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>
+
         <h1>HTML</h1>
-    </title>
+  
 </head>
 <body>
     <img scr="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s">
