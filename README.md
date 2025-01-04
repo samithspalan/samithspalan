@@ -3,7 +3,6 @@ I'm currently learning
 JAVA and JAVASCRIPT
 
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samith_s_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/samith17118) 
 
