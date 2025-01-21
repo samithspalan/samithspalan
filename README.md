@@ -1,6 +1,5 @@
 # 💫 About Me:   Passionate Software developer from India
-I'm currently learning 
-JAVA and JAVASCRIPT
+I'm currently learning JAVASCRIPT
 
 
 ## 🌐 Socials:
