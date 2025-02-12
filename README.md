@@ -1,5 +1,5 @@
 # 💫 About Me:   Passionate Software developer from India
-I'm currently learning -JAVASCRIPT and TAILWIND CSS
+I'm currently learning -UI/UX
 
 
 ## 🌐 Socials:
