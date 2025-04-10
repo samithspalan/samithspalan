@@ -1,5 +1,5 @@
 # 💫 About Me:   Passionate Software developer from India
-I'm currently learning -Backend
+I'm currently learning -ExpressJS
 
 
 ## 🌐 Socials:
