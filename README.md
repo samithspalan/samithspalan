@@ -1,5 +1,5 @@
 # 💫 About Me:   Passionate Software developer from India
-I'm currently learning -Tailwind and Typescript
+I'm currently learning -Tailwind
 
 
 ## 🌐 Socials:
