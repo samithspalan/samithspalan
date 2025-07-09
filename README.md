@@ -1,5 +1,5 @@
 # 💫 About Me:   Passionate Software developer from India
-I'm currently learning - PHP
+I'm currently learning - Typescript and ReactJS
 
 
 ## 🌐 Socials:
