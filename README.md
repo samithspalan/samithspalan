@@ -59,14 +59,13 @@
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samithspalan&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samithspalan&layout=compact&theme=radical&hide_border=true&langs_count=6&cache_seconds=86400" height="165" alt="Top Languages" />
+  <img src="https://metrics.lecoq.io/samithspalan?template=classic&base=header,activity,community,repositories,metadata&config_timezone=Asia/Kolkata" alt="GitHub Metrics" width="80%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=samithspalan&theme=radical&hide_border=true&cache_bust=1" height="165" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=samithspalan&theme=radical&hide_border=true" height="165" alt="GitHub Streak" />
 </div>
 
 <!-- Sleek Gradient Divider -->
