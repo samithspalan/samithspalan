@@ -29,7 +29,6 @@
 
 ### 🛠️ Technologies & Tools
 
-<!-- Using Skill-icons instead of standard HTML tables for a completely different, premium look -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,python,c,java,html,css&perline=7" alt="Languages" />
@@ -60,15 +59,14 @@
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <!-- Using Radical theme instead of TokyoNight to keep it distinct -->
-  <img src="https://github-readme-stats.vercel.app/api?username=samithspalan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samithspalan&layout=compact&theme=radical&hide_border=true&langs_count=6" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samithspalan&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samithspalan&layout=compact&theme=radical&hide_border=true&langs_count=6&cache_seconds=86400" height="165" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=samithspalan&theme=radical&hide_border=true" width="70%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=samithspalan&theme=radical&hide_border=true&cache_bust=1" height="165" alt="GitHub Streak" />
 </div>
 
 <!-- Sleek Gradient Divider -->
