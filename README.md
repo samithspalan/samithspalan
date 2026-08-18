@@ -1,5 +1,5 @@
 # 💫 About Me:   Passionate Software developer from India
-I'm currently learning - NextJS and Agentic AI
+I'm currently learning -  Agentic AI
 
 
 ## 🌐 Socials:
